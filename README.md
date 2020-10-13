@@ -58,18 +58,18 @@ Same spiel as everyone else about how I can solve problems.
 
 **Death Of A Salesman West End** (October 2019 to January 2020)
 *Deputy Head Of Automation*
-*Picadilly Theatre, London*    
-- Any experience relevent to software development
+*Piccadilly Theatre, London*    
+- Any experience relevant to software development
 
 **Elekron** (April 2019 to July 2019)   
 *Deputy Head Of Staging*  
 *Studio City Event Center, Macau*
-- Any experience relevent to software development
+- Any experience relevant to software development
 
 **Mamma Mia!** (September 2012 - March 2019)
 *Swing Showman*
 *Novello Theatre, London*
-- Any experience relevent to software development
+- Any experience relevant to software development
 
 ## Interests
 
