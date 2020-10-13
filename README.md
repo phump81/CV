@@ -61,7 +61,7 @@ Same spiel as everyone else about how I can solve problems.
 *Piccadilly Theatre, London*    
 - Any experience relevant to software development
 
-**Elekron** (April 2019 to July 2019)   
+**Elekron** (April 2019 to July 2019)
 *Deputy Head Of Staging*  
 *Studio City Event Center, Macau*
 - Any experience relevant to software development
