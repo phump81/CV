@@ -57,17 +57,17 @@ Same spiel as everyone else about how I can solve problems.
 ## Experience
 
 **Death Of A Salesman West End** (October 2019 to January 2020)<br>
-*Deputy Head Of Automation*
+*Deputy Head Of Automation*<br>
 *Piccadilly Theatre, London*    
 - Any experience relevant to software development
 
 **Elekron** (April 2019 to July 2019)<br>
-*Deputy Head Of Staging*  
+*Deputy Head Of Staging*<br>
 *Studio City Event Center, Macau*
 - Any experience relevant to software development
 
 **Mamma Mia!** (September 2012 - March 2019)<br>
-*Swing Showman*
+*Swing Showman*<br>
 *Novello Theatre, London*
 - Any experience relevant to software development
 
