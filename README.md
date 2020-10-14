@@ -19,7 +19,7 @@
 
 </div>
 
-<p>I am a recent graduate of [Makers](https://makers.tech/), an intensive software development bootcamp, seeking my first professional role as a software developer. Following a decade and a half of working in technical theatre, I decided it was time for a change, and chose to apply my problem-solving skills, logical thinking, and an almost frustrating attention to detail, to a career in tech.</p>
+I am a recent graduate of [Makers](https://makers.tech/), an intensive software development bootcamp, seeking my first professional role as a software developer. Following a decade and a half of working in technical theatre, I decided it was time for a change, and chose to apply my problem-solving skills, logical thinking, and an almost frustrating attention to detail, to a career in tech.
 
 ## Technical Experience
 #### Makers Academy (June 2020 to September 2020) - Full-Stack Software Development Bootcamp.
