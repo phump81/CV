@@ -11,7 +11,6 @@
 
 <div align="center">
 
-[Technical Experience ](#Technical Experience) |
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Education ](#education) |
