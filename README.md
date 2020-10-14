@@ -87,7 +87,7 @@ If there was a problem, yo I'll solve it. Check out the hook, while my DJ revolv
 **Mamma Mia!** (September 2012 - March 2019)<br>
 *Swing Showman*<br>
 *Novello Theatre, London*
-- It was six years of ABBA that initiated my search for a new career in tech.
+- It was six years of ABBA that drove me to search for a new career in tech.
 
 ## Interests
 
