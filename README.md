@@ -9,7 +9,23 @@
 
 </div>
 
+<div align="center">
+
+[Technical Experience ](#Technical Experience) |
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Education ](#education) |
+[Experience ](#experience) |
+[Interests ](#interests)
+
+</div>
+
 <p>I am a recent graduate of [Makers](https://makers.tech/), an intensive software development bootcamp, seeking my first professional role as a software developer. Following a decade and a half of working in technical theatre, I decided it was time for a change, and chose to apply my problem-solving skills, logical thinking, and an almost frustrating attention to detail, to a career in tech.</p>
+
+## Technical Experience
+#### Makers Academy (June 2020 to September 2020) - Full-Stack Software Development Bootcamp.
+A four-month, full time, intensive Bootcamp prioritising TDD, BDD, OOP and Agile processes. It has equipped me to TDD anything, program fluently, debug anything, model anything, refactor anything and most importantly it focussed on learning to learn.
+A few examples of the projects I worked on during the course are below;
 
 ## Projects
 | Title | Description | Technologies Used | Test Suites/CIs/CDs Employed | Deployment |
@@ -19,20 +35,19 @@
 | [MakersBnB](https://github.com/phump81/makersbnb)| First Makers group project, created by a team of 5. A clone of Airbnb.| Ruby, HTML, CSS, Sinatra, PostgreSQL, Bcrypt | Rspec | N/A |
 | [Bank Tech Test](https://github.com/phump81/Bank_Tech_Test) | A simple command line program emulating a bank account, showcasing test driven development. | Ruby | RSpec| N/A |
 
-
 ## Skills
 
 #### Fast Learner
 
-The usual stuff about being a fast learner.
+At Makers, if you were not a fast learner, the course could swallow you whole. We were pushed to grow and improve our developer skills on a daily basis. Principles laid out early in the course made it possible for me to learn new languages and frameworks with greater ease. Before Makers, I had recently made the move into theatre automation, and had to learn to programme, operate and troubleshoot a system completely new to me.
 
 #### Team Player
 
-Selected buzz words about working in a team, and how great I am at it.
+Blah blah blah, team player, blah.
 
 #### Problem Solver
 
-Same spiel as everyone else about how I can solve problems.
+If there was a problem, yo I'll solve it. Check out the hook, while my DJ revolves it.
 
 ## Education
 
@@ -59,17 +74,21 @@ Same spiel as everyone else about how I can solve problems.
 **Death Of A Salesman West End** (October 2019 to January 2020)<br>
 *Deputy Head Of Automation*<br>
 *Piccadilly Theatre, London*    
-- Any experience relevant to software development
+- Learned to programme, operate and troubleshoot a system which was completely new to me.
+- Covered stage management during absence.
+- Responsible for daily checks of all automation equipment.
 
 **Elekron** (April 2019 to July 2019)<br>
 *Deputy Head Of Staging*<br>
 *Studio City Event Center, Macau*
-- Any experience relevant to software development
+- Worked in a multinational team, spanning four continents.
+- Led the team in HOD's absence.
+- High pressure environment.
 
 **Mamma Mia!** (September 2012 - March 2019)<br>
 *Swing Showman*<br>
 *Novello Theatre, London*
-- Any experience relevant to software development
+- It was six years of ABBA that initiated my search for a new career in tech.
 
 ## Interests
 
