@@ -38,15 +38,15 @@ A few examples of the projects I worked on during the course are below;
 
 #### Fast Learner
 
-At Makers, if you were not a fast learner, the course could swallow you whole. We were pushed to grow and improve our developer skills on a daily basis. Principles laid out early in the course made it possible for me to learn new languages and frameworks with greater ease. Before Makers, I had recently made the move into theatre automation, and had to learn to programme, operate and troubleshoot a system completely new to me.
+At Makers we were pushed to grow and improve our developer skills on a daily basis. Principles laid out early in the course made it possible for me to learn new languages and frameworks with greater ease. Before Makers, I had recently made the move into theatre automation, and had to learn to programme, operate and troubleshoot a system that was completely new to me.
 
 #### Team Player
 
-Blah blah blah, team player, blah.
+In one of my most recent roles, I became the deputy head of an established  team of nine people, comprised of six nationalities, spanning four continents. My career is full of examples of being thrust into various teams, fulfilling many different roles. At Makers, we did three group projects, as well as daily pairing, and I like to think that I contributed positively to each one, every day. 
 
 #### Problem Solver
 
-If there was a problem, yo I'll solve it. Check out the hook, while my DJ revolves it.
+Throughout my time at Makers, and also my career in technical theatre, fresh problems were always presenting themselves. No matter what that may be, I am always keen to find the best solution. I also do logic puzzles in my spare time.
 
 ## Education
 
@@ -73,14 +73,14 @@ If there was a problem, yo I'll solve it. Check out the hook, while my DJ revolv
 **Death Of A Salesman West End** (October 2019 to January 2020)<br>
 *Deputy Head Of Automation*<br>
 *Piccadilly Theatre, London*    
-- Learned to programme, operate and troubleshoot a system which was completely new to me.
-- Covered stage management during absence.
+- Learned to programme, operate and troubleshoot a system which was completely new to me, having had no previous automation experience.
+- Covered stage management during absence, and training periods.
 - Responsible for daily checks of all automation equipment.
 
 **Elekron** (April 2019 to July 2019)<br>
 *Deputy Head Of Staging*<br>
 *Studio City Event Center, Macau*
-- Worked in a multinational team, spanning four continents.
+- Worked in a multinational team, spanning several continents.
 - Led the team in HOD's absence.
 - High pressure environment.
 
